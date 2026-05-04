@@ -1,0 +1,17 @@
+{
+  "name": "meitu-paints-hostinger-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20 <25"
+  },
+  "scripts": {
+    "hostinger:install": "npm --prefix Server ci --omit=dev && npm --prefix Frontend/meitupaints ci --include=dev",
+    "hostinger:build": "npm run hostinger:install && npm --prefix Frontend/meitupaints run build",
+    "package:hostinger": "npm --prefix Frontend/meitupaints run build && node scripts/create-hostinger-zip.mjs",
+    "build": "npm run hostinger:build",
+    "start": "node server.js",
+    "check": "node --check server.js && npm --prefix Server run check && npm --prefix Frontend/meitupaints run build"
+  }
+}

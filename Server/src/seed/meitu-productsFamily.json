@@ -1,0 +1,611 @@
+[
+  {
+    "code": "ECO-HG-EXT",
+    "name": "MeiTu Eco-Friendly High Glossy Exterior Wall Paint",
+    "category": "EXTERIOR_PAINT",
+    "description": "Premium high-gloss exterior wall paint designed for durable protection and an elegant finish.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ECO-HG-NAT-EXT",
+    "name": "MeiTu Eco-Friendly High Glossy Natural Exterior Wall Paint",
+    "category": "EXTERIOR_PAINT",
+    "description": "Eco-friendly natural exterior wall paint with a high-gloss finish for lasting outdoor performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENV-FRIENDLY-NAT-EXT",
+    "name": "MeiTu Environmentally Friendly Natural Exterior Paint",
+    "category": "EXTERIOR_PAINT",
+    "description": "Environmentally friendly natural exterior paint made for reliable coverage and weather resistance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENV-FRIENDLY-CONST-EXT",
+    "name": "MeiTu Environmentally Friendly Constant Color Exterior Paint",
+    "category": "EXTERIOR_PAINT",
+    "description": "Environmentally friendly exterior paint formulated for stable color and dependable exterior durability.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ECO-HG-INT",
+    "name": "MeiTu Eco-Friendly High Glossy Interior Wall Paint",
+    "category": "INTERIOR_PAINT",
+    "description": "Premium high-gloss interior wall paint offering a refined look and smooth finish for indoor spaces.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ECO-HG-NAT-INT",
+    "name": "MeiTu Eco-Friendly High Glossy Natural Interior Wall Paint",
+    "category": "INTERIOR_PAINT",
+    "description": "Eco-friendly natural interior wall paint with a high-gloss finish for clean and polished interiors.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENV-FRIENDLY-NAT-INT",
+    "name": "MeiTu Environmentally Friendly Natural Interior Wall Paint",
+    "category": "INTERIOR_PAINT",
+    "description": "Environmentally friendly natural interior wall paint designed for comfortable and elegant interiors.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENV-FRIENDLY-CONST-INT",
+    "name": "MeiTu Environmentally Friendly Constant Color Interior Wall Paint",
+    "category": "INTERIOR_PAINT",
+    "description": "Constant-color interior wall paint created for dependable shade consistency and interior beauty.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ECO-INT-WALL",
+    "name": "MeiTu Eco-Friendly Interior Wall Paint",
+    "category": "INTERIOR_PAINT",
+    "description": "Eco-friendly interior wall paint made for smooth application and everyday decorative performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "EE-EXT-PRIMER",
+    "name": "MeiTu Environmentally Efficient Exterior Wall Primer",
+    "category": "PRIMER",
+    "description": "Exterior wall primer developed to improve surface preparation, bonding, and topcoat performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ALKALI-RES-INT-PRIMER",
+    "name": "MeiTu Environmentally Friendly Alkali-Resistant Interior Wall Primer",
+    "category": "PRIMER",
+    "description": "Alkali-resistant interior wall primer designed for stronger adhesion and reliable surface sealing.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ECO-INT-PRIMER",
+    "name": "MeiTu Eco-Friendly Interior Primer",
+    "category": "PRIMER",
+    "description": "Eco-friendly interior primer created to enhance surface readiness and paint finish quality.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ACRYLIC-DIST-INT",
+    "name": "MeiTu Acrylic Distemper Interior Wall Paint",
+    "category": "DISTEMPER",
+    "description": "Acrylic distemper interior wall paint offering decorative coverage and economical interior finishing.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "DARK-COLOR-INT-EXT-C1",
+    "name": "MeiTu Eco-Friendly Dark Color Interior And Exterior Wall Paint C1",
+    "category": "INTERIOR_EXTERIOR_PAINT",
+    "description": "Eco-friendly dark color wall paint for both interior and exterior use, formulated for rich shade impact.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "DARK-COLOR-INT-EXT-C2",
+    "name": "MeiTu Eco-Friendly Dark Color Interior And Exterior Wall Paint C2",
+    "category": "INTERIOR_EXTERIOR_PAINT",
+    "description": "Eco-friendly dark color wall paint for interior and exterior applications with bold and lasting appearance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ECO-HG-CEILING-WHITE",
+    "name": "MeiTu Eco-Friendly High Glossy Ceiling White",
+    "category": "CEILING_WHITE",
+    "description": "High-gloss ceiling white paint designed to deliver a bright, clean, and premium ceiling finish.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ECO-CEILING-WHITE",
+    "name": "MeiTu Eco-Friendly Ceiling White",
+    "category": "CEILING_WHITE",
+    "description": "Eco-friendly ceiling white paint made for bright coverage and a clean interior ceiling appearance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "WOOD-PRIMER",
+    "name": "Wood Primer",
+    "category": "ENAMEL_PRIMER",
+    "description": "Wood primer formulated to improve bonding, sealing, and finish readiness on wooden surfaces.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "METAL-PRIMER",
+    "name": "Metal Primer",
+    "category": "ENAMEL_PRIMER",
+    "description": "Metal primer designed to improve adhesion and surface protection before enamel topcoat application.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GRANITE-FLOOR-GRIPCOAT-A",
+    "name": "Floor paint Gripcoat (A)",
+    "category": "GRANITE_FLOOR",
+    "description": "Granite floor system gripcoat component formulated to support textured grip and floor coating performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GRANITE-FLOOR-GRIPCOAT-B",
+    "name": "Floor paint Gripcoat (B)",
+    "category": "GRANITE_FLOOR",
+    "description": "Granite floor system gripcoat companion component created for balanced application and floor finish support.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GRANITE-FLOOR-TRUE-BOND-A",
+    "name": "Floor paint True Bond (A)",
+    "category": "GRANITE_FLOOR",
+    "description": "Granite floor bonding component designed to strengthen adhesion and coating stability on prepared surfaces.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GRANITE-FLOOR-TRUE-BOND-B",
+    "name": "Floor paint True Bond (B)",
+    "category": "GRANITE_FLOOR",
+    "description": "Granite floor bonding companion component formulated to complete the true bond application system.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GRANITE-FLOOR-PRIME-SHINE-A",
+    "name": "Floor paint Prime Shine (A)",
+    "category": "GRANITE_FLOOR",
+    "description": "Prime Shine floor coating component developed for enhanced finish build and durable granite floor presentation.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GRANITE-FLOOR-PRIME-SHINE-B",
+    "name": "Floor paint Prime Shine (B)",
+    "category": "GRANITE_FLOOR",
+    "description": "Prime Shine companion component for the granite floor system, supporting final finish quality and performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GRANITE-FLOOR-SURFACE",
+    "name": "Granite surface paint",
+    "category": "GRANITE_FLOOR",
+    "description": "Granite floor surface coat designed to deliver decorative finish quality and strong floor system protection.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENAMEL-G1",
+    "name": "Meitu Glossy Enamel G1",
+    "category": "ENAMEL",
+    "description": "Glossy enamel finish from shade group G1, designed for decorative and durable surface coating.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENAMEL-G2",
+    "name": "Meitu Glossy Enamel G2",
+    "category": "ENAMEL",
+    "description": "Glossy enamel finish from shade group G2, offering vibrant decorative color and durable coating performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENAMEL-G3",
+    "name": "Meitu Glossy Enamel G3",
+    "category": "ENAMEL",
+    "description": "Glossy enamel finish from shade group G3, created for smooth appearance and dependable finish quality.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ENAMEL-G4",
+    "name": "Meitu Glossy Enamel G4",
+    "category": "ENAMEL",
+    "description": "Glossy enamel finish from shade group G4, designed for attractive color expression and lasting protection.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TERRACOTTA",
+    "name": "Terracotta",
+    "category": "SPECIALTY",
+    "description": "Decorative specialty coating with a warm terracotta-inspired finish for distinctive surface styling.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "MEITU-DAMP-PROOF",
+    "name": "Meitu Damp-Proof",
+    "category": "SPECIALTY",
+    "description": "Specialty damp-proof coating designed to help protect interior and exterior surfaces from moisture-related damage.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "ALUMINUM-PAINTS",
+    "name": "Aluminum Paints",
+    "category": "SPECIALTY",
+    "description": "Specialty aluminum coating developed for protective and decorative metallic surface finishing.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GOLD-COLOR",
+    "name": "Gold Color",
+    "category": "SPECIALTY",
+    "description": "Specialty gold finish coating created for decorative accents and rich metallic visual effects.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "PU-SILICON-EXT-INT",
+    "name": "PU Silicon Exterior/Interior Paint",
+    "category": "SPECIALTY",
+    "description": "PU silicon specialty paint for exterior and interior surfaces, formulated for protective performance and refined finish quality.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-2D-GRANITE-PRIMER",
+    "name": "Granite primer",
+    "category": "LIQUID_GRANITE_GTONE_2D",
+    "description": "2D liquid granite primer formulated to prepare surfaces for reliable adhesion and decorative granite finish performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-2D-INTERMEDIATE-COAT",
+    "name": "Intermediate coating paint",
+    "category": "LIQUID_GRANITE_GTONE_2D",
+    "description": "2D liquid granite intermediate coating designed to build the system layer and support decorative surface consistency.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-2D-GRANITE-SURFACE",
+    "name": "Granite surface paint",
+    "category": "LIQUID_GRANITE_GTONE_2D",
+    "description": "2D liquid granite surface coat created to deliver the decorative granite appearance and durable exterior presentation.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-2D-DUSTPROOF-SURFACE",
+    "name": "Dust-proof Surface paint",
+    "category": "LIQUID_GRANITE_GTONE_2D",
+    "description": "2D liquid granite dust-proof top surface coat developed to improve finish protection and surface cleanliness.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-3D-GRANITE-PRIMER",
+    "name": "3D Granite primer",
+    "category": "LIQUID_GRANITE_GTONE_3D",
+    "description": "3D liquid granite primer designed to strengthen bonding and prepare surfaces for textured decorative coating application.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-3D-INTERMEDIATE-COAT",
+    "name": "3D Intermediate coating paint",
+    "category": "LIQUID_GRANITE_GTONE_3D",
+    "description": "3D liquid granite intermediate coating formulated to build texture depth and improve layered coating performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-3D-GRANITE-SURFACE",
+    "name": "3D Granite surface paint",
+    "category": "LIQUID_GRANITE_GTONE_3D",
+    "description": "3D liquid granite surface coat developed for textured decorative expression and durable granite-style finishing.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "GTONE-3D-DUSTPROOF-SURFACE",
+    "name": "3D Dust-proof Surface paint",
+    "category": "LIQUID_GRANITE_GTONE_3D",
+    "description": "3D liquid granite dust-proof surface coat created to protect textured finishes and improve long-term surface appearance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "REALSTONE-PRIMER",
+    "name": "Real stone Primer",
+    "category": "REAL_STONE",
+    "description": "Real stone system primer formulated to prepare surfaces for dependable adhesion and decorative stone-finish application.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "REALSTONE-SURFACE",
+    "name": "Real stone surface paint",
+    "category": "REAL_STONE",
+    "description": "Real stone decorative surface coat designed to deliver natural stone-inspired texture and durable finish quality.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "REALSTONE-DUSTPROOF",
+    "name": "Real stone dust proof paint",
+    "category": "REAL_STONE",
+    "description": "Real stone dust-proof protective coat made to preserve decorative stone finishes and support easier surface maintenance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "WALLPUTTY-WHITE-20KG",
+    "name": "Interior / Exterior Wall Putty (White)",
+    "category": "WALL_PUTTY",
+    "description": "White wall putty suitable for interior and exterior surface preparation, formulated for smooth leveling and finish support.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "WALLPUTTY-GRAY-20KG",
+    "name": "Exterior waterproof Wall Putty (Gray)",
+    "category": "WALL_PUTTY",
+    "description": "Gray exterior waterproof wall putty designed for durable surface leveling and improved resistance in exterior conditions.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-MANUAL-MACHINE",
+    "name": "Manual Machine",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Manual machine accessory intended to support paint processing and application operations within the Meitu coating system.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-AUTOMATIC-MACHINE",
+    "name": "Automatic Machine",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Automatic machine designed to improve efficiency and consistency in paint processing and operational workflows.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-COLOR-MIXING-MACHINE",
+    "name": "Color Mixing Machine",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Color mixing machine developed for accurate and efficient paint color blending across supported coating products.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SPRAY-GUN-WITH-SET",
+    "name": "Spray Gun With Set",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Spray gun set intended for convenient paint spraying applications and controlled coating delivery performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SPRAY-GUN-HEAD",
+    "name": "Spray Gun Head",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Spray gun head replacement component designed to support controlled paint atomization and application precision.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-REAL-STONE-PAINT-GUN",
+    "name": "Real Stone Paint Gun",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Specialized paint gun created for real stone coating applications and textured decorative spraying performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-AIR-COMPRESSOR-MACHINE",
+    "name": "Air Compressor machine",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Air compressor machine designed to support spray-based paint application tools and stable operating pressure delivery.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SEWING-TAPE",
+    "name": "Sewing Tape",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Measurement tape accessory intended to support accurate site measurement and application planning during paint work.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-FLOOR-ROLLER-9IN-SET",
+    "name": "9” Floor Paints Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "9-inch floor paint roller set designed for efficient floor coating application and controlled finish coverage.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-FLOOR-ROLLER-4IN",
+    "name": "4” Floor Paints Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "4-inch floor paint roller suitable for smaller floor coating areas and controlled paint application tasks.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-FLOOR-ROLLER-HANDLE-4IN",
+    "name": "4” Floor Paints Roller Handle",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "4-inch floor paint roller handle made to support stable grip and practical roller attachment during application.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-REGULAR-ROLLER-7IN-SET",
+    "name": "7” Regular Paint Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "7-inch regular paint roller set designed for smooth wall and surface coating application across common project areas.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PAINT-BRUSH",
+    "name": "Paint Brush",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "General paint brush accessory suitable for detailed coating work, edge finishing, and small-area applications.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PAINT-BRUSH-1IN",
+    "name": "Paint Brush 1”",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "1-inch paint brush designed for narrow-edge work, trim detailing, and precise paint application.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PAINT-BRUSH-1_5IN",
+    "name": "Paint Brush 1.5”",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "1.5-inch paint brush developed for controlled detailing and practical medium-width coating applications.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PAINT-BRUSH-2IN",
+    "name": "Paint Brush 2”",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "2-inch paint brush suited for versatile coating work, edge coverage, and routine paint finishing tasks.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PAINT-BRUSH-2_5IN",
+    "name": "Paint Brush 2.5”",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "2.5-inch paint brush created for broader brush coverage while maintaining control in detail-oriented work.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PAINT-BRUSH-3IN",
+    "name": "Paint Brush 3”",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "3-inch paint brush designed for efficient coverage on broader surface sections and practical finish work.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SANDPAPER-KHAXI-80-100-120",
+    "name": "Paper Khaksi 80/100/120",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Khaksi sandpaper sheet intended for surface preparation, smoothing, and finish readiness before paint application.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SANDPAPER-ROLL-KHAXI-180-100-120",
+    "name": "Roll Khaksi 180/100/120",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Khaksi sandpaper roll developed for efficient surface abrasion and preparation across larger working areas.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SAFETY-BELT-SINGLE-HOOK",
+    "name": "Safety Belt Single Hook",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Single-hook safety belt intended to support safer elevated work during painting and surface preparation tasks.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SAFETY-BELT-DOUBLE-HOOK",
+    "name": "Safety Belt Double Hook",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Double-hook safety belt designed for improved mobility and secure support during height-based work operations.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-WALL-GRINDER-MACHINE-SET",
+    "name": "Wall Grinder Machine Set",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Wall grinder machine set developed for wall surface preparation, smoothing, and efficient pre-coating treatment.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-WALL-GRINDER-MACHINE",
+    "name": "Wall Grinder Machine Pcs",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Wall grinder machine unit intended for wall preparation work and smooth surface conditioning before coating.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-FLOOR-PAINT-SHOES",
+    "name": "Floor Paint Shoes",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Floor paint shoes designed to assist movement across coated floor surfaces during specialized application work.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PUTTING-PATA-RECT",
+    "name": "Rectangular Putting Pata",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Rectangular putting pata tool made for spreading putty evenly and improving surface leveling performance.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PUTTING-PATA-TRI",
+    "name": "Triangle Putting Pata",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Triangle putting pata tool intended for detail surface work and controlled putty application in tighter areas.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PLASTIC-COVER-20M",
+    "name": "Paint Safe Plastic Cover 20M",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Protective plastic cover roll created to help shield surrounding surfaces during painting and finishing work.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-REGULAR-ROLLER-8IN",
+    "name": "8\" Regular Paint Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "8-inch regular paint roller suitable for efficient wall and surface coating with practical everyday coverage.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-REGULAR-ROLLER-10IN",
+    "name": "10\" Regular Paint Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "10-inch regular paint roller developed for broader coating coverage and efficient application over larger areas.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-REGULAR-ROLLER-4IN",
+    "name": "4\" Regular Paint Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "4-inch regular paint roller made for smaller areas, trims, and controlled paint coverage in tighter sections.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-FOAM-TAPE-2MM-3MM",
+    "name": "Foam Tape 2mm/3mm",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Foam tape accessory intended for masking, spacing, and decorative finish support in specialized paint applications.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PUTTING-PATA-HANDLE",
+    "name": "Putting Pata With Handle",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Putting pata with handle designed for more comfortable grip and efficient putty spreading during wall preparation.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-PUTTING-KNIFE",
+    "name": "Putting Knife",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Putting knife tool made for precise putty application, scraping, and surface preparation work.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-TEXTURE-ROLLER-DECORATIVE-SET",
+    "name": "Decorative Texture Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Decorative texture roller set developed to create patterned coating effects and textured finish designs.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-DESIGN-TAPE-50M",
+    "name": "Design Tape 50M",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Design tape roll intended for decorative paint layouts, masking lines, and controlled finish pattern work.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-REFILLABLE-PAINT-ROLLER-SET",
+    "name": "Refillable Paint Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Refillable paint roller set created for convenient paint loading and efficient repetitive coating application.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-DESIGN-ROLLER",
+    "name": "Design Roller",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Design roller intended for decorative coating effects and patterned finish creation on prepared surfaces.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  },
+  {
+    "code": "TOOLS-SCAFFOLDING-SET",
+    "name": "Scaffolding",
+    "category": "TOOLS_ACCESSORIES",
+    "description": "Scaffolding set intended to support safer and more practical elevated access during painting and coating operations.",
+    "copyrightText": "Product visuals and descriptions © Meitu Paints."
+  }
+]

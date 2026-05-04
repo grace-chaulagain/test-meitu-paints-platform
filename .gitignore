@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+dist
+logs
+*.log
+.deploy/
+hostinger-package-staging/
+dist-packages/
+.env
+.env.*
+!.env.example
+Server/.env
+Frontend/meitupaints/.env
