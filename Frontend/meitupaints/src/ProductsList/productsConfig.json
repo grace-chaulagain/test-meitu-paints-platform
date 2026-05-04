@@ -1,0 +1,65 @@
+{
+  "routeBase": {
+    "distemper": "/regular",
+    "exterior": "/regular",
+    "interior": "/regular",
+    
+
+    "exteriorPutting": "/putting",
+    "interiorPutting": "/putting",
+    "roadmarking": "/putting",
+
+    "floorPaints": "/granite",
+    "paint3D": "/granite",
+    "paintsLiquid": "/granite",
+    "realstonePaints": "/granite",
+
+    "primer": "/primer",
+    "specialty": "/specialty",
+    "utilities": "/utilities"
+  },
+  "groups": [
+    {
+      "key": "regular",
+      "title": "Regular Paints",
+      "desc": "Interior & exterior performance systems.",
+      "link": "/regular",
+      "datasets": ["interiorPaints", "exteriorPaints", "distemperPaints"]
+    },
+    {
+      "key": "putting",
+      "title": "Putting Systems",
+      "desc": "Interior + exterior putting, plus high-visibility road marking systems.",
+      "link": "/putting",
+      "datasets": ["interiorPutting", "exteriorPutting", "roadmarking"]
+    },
+    {
+      "key": "granite",
+      "title": "Granite • 3D • Liquid Systems",
+      "desc": "Architectural textures, floor coatings, and smooth-flow finishes.",
+      "link": "/granite",
+      "datasets": ["floorPaints", "paint3D", "paintsLiquid", "realstonePaints"]
+    },
+    {
+      "key": "primer",
+      "title": "Primers",
+      "desc": "Bonding layers for long-term durability.",
+      "link": "/primer",
+      "datasets": ["primerPaints"]
+    },
+    {
+      "key": "specialty",
+      "title": "Specialty",
+      "desc": "Specialty finishes & decorative solutions.",
+      "link": "/specialty",
+      "datasets": ["paintsSpecialty"]
+    },
+    {
+      "key": "utilities",
+      "title": "Utilities",
+      "desc": "Professional tools and supporting products.",
+      "link": "/utilities",
+      "datasets": ["paintsUtilities"]
+    }
+  ]
+}

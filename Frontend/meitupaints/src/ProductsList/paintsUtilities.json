@@ -1,0 +1,150 @@
+[
+  {
+    "id": "Utility-23",
+    "name": "Automatic Tinting Machine",
+    "category": "Utility",
+    "file": "Automatic Tinting Machine.webp",
+    "src": "/Utility/Automatic Tinting Machine.webp"
+  },
+  {
+    "id": "Utility-24",
+    "name": "Manual Tinting Machine",
+    "category": "Utility",
+    "file": "Manual Tinting Machine.webp",
+    "src": "/Utility/Manual Tinting Machine.webp"
+  },
+  {
+    "id": "Utility-25",
+    "name": "Paint Shaker Machine",
+    "category": "Utility",
+    "file": "Paint Shaker Machine.webp",
+    "src": "/Utility/Paint Shaker Machine.webp"
+  },
+  {
+    "id": "Utility-26",
+    "name": "Real Stone Spray Gun",
+    "category": "Utility",
+    "file": "Real Stone Spray Gun.webp",
+    "src": "/Utility/Real Stone Spray Gun.webp"
+  },
+  {
+    "id": "Utility-22",
+    "name": "Wall Grinding Machine",
+    "category": "Utility",
+    "file": "Wall Grinding Machine.webp",
+    "src": "/Utilities.webp"
+  },
+  {
+    "id": "Utility-1",
+    "name": "Air Compressor Machine",
+    "category": "Utility",
+    "file": "Air Compressor Machine.webp",
+    "src": "/Utility/Air Compressor Machine.webp"
+  },
+  {
+    "id": "Utility-19",
+    "name": "Spray Gun Set",
+    "category": "Utility",
+    "file": "Spray Gun Set.webp",
+    "src": "/Utility/Spray Gun Set.webp"
+  },
+  {
+    "id": "Utility-20",
+    "name": "Spray Gun",
+    "category": "Utility",
+    "file": "Spray Gun.webp",
+    "src": "/Utility/Spray Gun.webp"
+  },
+  {
+    "id": "Utility-3",
+    "name": "Design Roller",
+    "category": "Utility",
+    "file": "Design Roller.webp",
+    "src": "/Utility/Design Roller.webp"
+  },
+  {
+    "id": "Utility-4",
+    "name": "Design Tape",
+    "category": "Utility",
+    "file": "Design Tape.webp",
+    "src": "/Utility/Design Tape.webp"
+  },
+  {
+    "id": "Utility-5",
+    "name": "Floor Paint Shoes",
+    "category": "Utility",
+    "file": "Floor Paint Shoes.webp",
+    "src": "/Utility/Floor Paint Shoes.webp"
+  },
+  {
+    "id": "Utility-10",
+    "name": "Meitu Paints Regular Roller",
+    "category": "Utility",
+    "file": "Meitu Paints Regular Roller.webp",
+    "src": "/Utility/Meitu Paints Regular Roller.webp"
+  },
+  {
+    "id": "Utility-11",
+    "name": "Refillable Paint Roller",
+    "category": "Utility",
+    "file": "Meitu Paints Set.webp",
+    "src": "/Utility/Meitu Paints Set.webp"
+  },
+  {
+    "id": "Utility-12",
+    "name": "Tape Cover",
+    "category": "Utility",
+    "file": "Tape Cover.webp",
+    "src": "/Utility/Tape Cover.webp"
+  },
+  {
+    "id": "Utility-13",
+    "name": "Sewing Tape",
+    "category": "Utility",
+    "file": "Normal Tape.webp",
+    "src": "/Utility/Normal Tape.webp"
+  },
+  {
+    "id": "Utility-14",
+    "name": "Foam Tape",
+    "category": "Utility",
+    "file": "Foam Tape.webp",
+    "src": "/Utility/Foam Tape.webp"
+  },
+  {
+    "id": "Utility-15",
+    "name": "Scaffolding",
+    "category": "Utility",
+    "file": "Platform Ladder.webp",
+    "src": "/Utility/Platform Ladder.webp"
+  },
+  {
+    "id": "Utility-16",
+    "name": "Putting Knife",
+    "category": "Utility",
+    "file": "Putting Knife.webp",
+    "src": "/Utility/Putting Knife.webp"
+  },
+  {
+    "id": "Utility-17",
+    "name": "Putty Patta Handle",
+    "category": "Utility",
+    "file": "Putty Patta Handle.webp",
+    "src": "/Utility/Putty Patta Handle.webp"
+  },
+  {
+    "id": "Utility-18",
+    "name": "Safety Belt",
+    "category": "Utility",
+    "file": "Safety Belt.webp",
+    "src": "/Utility/Safety Belt.webp"
+  },
+  {
+    "id": "Utility-21",
+    "name": "Khaksi Roll",
+    "category": "Utility",
+    "file": "Khaksi Roll.webp",
+    "src": "/Utility/Khaksi Roll.webp"
+  }
+]
+

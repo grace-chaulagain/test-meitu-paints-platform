@@ -1,0 +1,104 @@
+[
+  {
+    "id": "oth-001",
+    "category": "Specialty",
+    "name": "Meitu Damp Proof",
+    "file": "Meitu Damp Proof.webp",
+    "src": "/Specialty/Meitu Damp Proof.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "leadtext": "A glass fiber reinforced elastomeric liquid applied waterproofing membrane. Meitu Damp Proof cures, forms a thick, seamless, durable membrane, thus,provides ultimate waterproofing solution. It takes care of minor cracks, dampness and acts as a barrier coat paint.",
+    "features": ["Eco friendly",
+                  "5yr Waterproofing warranty",
+                  "Surface heat reduction upto 10.C",
+                  "Takes cares of minor crack formation on plaster walls"
+                ],
+    "warranty": "5Yrs Warranty",
+    "nscertified": true
+  },
+  {
+    "id": "oth-002",
+    "category": "Specialty",
+    "name": "Meitu Enamel",
+    "file": "Meitu Enamel.webp",
+    "src": "/Specialty/Meitu Enamel.webp",
+    "sizes": ["4L", "1L", "500mL"],
+    "leadtext": "Meitu Enamel paint provides a mirror like gloss finish which can be used both for exterior and interior surfaces mainly on mild steel, wood and suitably prepared masonry surfaces. It forms a tough film that is extremely resistant to stains and water.",
+    "features": ["Mirror like finishing",
+                  "Tough and Durable",
+                  "Stain Guard"
+                ],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "oth-003",
+    "category": "Specialty",
+    "name": "Meitu Gold",
+    "file": "Meitu Gold.webp",
+    "src": "/Specialty/Meitu Gold.webp",
+    "sizes": ["500mL", "200mL", "100mL"],
+    "leadtext": "Meitu Gold color is a premium metallic coating designed to give surfaces a rich, luxurious golden finish. It is widely used in decorative applications, furniture, architectural elements, signage, and artistic projects. Gold paint enhances aesthetic appeal while providing durability, resistance to fading, and long-lasting shine. It can be applied on wood, metal, concrete, and previously painted surfaces, making it versatile for both interior and exterior applications.",
+    "features": ["Durable Coating",
+"Weather Resistance",
+"Smooth Application",
+"Versatile Use",
+"Non-Tarnishing"
+],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "oth-004",
+    "category": "Specialty",
+    "name": "Meitu PU Silicon",
+    "file": "Meitu PU Silicon.webp",
+    "src": "/Specialty/Meitu PU Silicon.webp",
+    "sizes": ["4L", "1L", "500mL"],
+    "leadtext": "Meitu PU (Polyurethane) silicon paint is a specialized coating that combines the properties of polyurethane and silicone. This hybrid formulation offers several unique features that make it suitable for a variety of applications, particularly where durability, flexibility, and weather resistance are critical.",
+    "features": ["Flexibility and Elasticity",
+"Weather Resistance",
+"Waterproofing",
+"Chemical Resistance",
+"UV Resistance",
+"Ease of application",
+"Aesthetic Finish"
+],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "oth-005",
+    "category": "Specialty",
+    "name": "Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint Terracotta",
+    "file": "Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint Terracotta.webp",
+    "src": "/Specialty/Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint Terracotta.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "leadtext": "Meitu Eco-friendly dark colour paint (dark base) is a speciality paint formulated to deliver deep, rich, and saturated dark tones while being gentle on the environment and indoor air quality. The “dark base” means the paint is specifically designed as a foundation for darker shades (like charcoals, deep blues, forest greens, dark browns, and black-based hues), providing excellent coverage and consistent depth of colour with fewer coats.",
+    "features": ["Eco-Friendly & Low Odour",
+"Low VOC / Safe for Air Quality",
+"Deep, Uniform Dark Base",
+"Durable and Washable",
+"Smooth & Attractive Finish"
+],
+    "warranty": "5yrs/10yrs warranty",
+    "nscertified": true
+  },
+  {
+    "id": "aluminium-primer",
+    "category": "primer",
+    "name": "Meitu Aluminium",
+    "file": "Meitu Aluminium.webp",
+    "src": "/Primer/Meitu Aluminium.webp",
+    "sizes": ["1L", "500mL"],
+    "leadtext": "Meitu Aluminium paint is a metallic coating that provides a sleek, reflective silver finish resembling natural aluminium metal. It is commonly used for industrial, decorative, and architectural purposes, including metal fabrication, roofing, and interior design accents. Aluminium paint not only offers an attractive metallic look but also protects surfaces from corrosion, heat, and environmental damage. It can be applied on steel, aluminium, wood, and masonry, making it a versatile and durable solution.",
+    "features": ["Metallic Silver Shine",
+"Corrosion Resistance",
+"Heat Reflective",
+"Long-Lasting Durability",
+"Smooth and Even Coverage",
+"Versatile Application"
+],
+    "warranty": "",
+    "nscertified": true
+  }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "id": "dis-acrylic",
+    "name": "Meitu Acrylic Distemper Interior Wall Paints",
+    "type": "product",
+    "route": "/regular/dis-acrylic",
+    "meta": {
+      "category": "distemper"
+    }
+  },
+  {
+    "id": "ext-eco-dark",
+    "name": "Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint",
+    "type": "product",
+    "route": "/regular/ext-eco-dark",
+    "meta": {
+      "category": "exterior"
+    }
+  },
+  {
+    "id": "ext-high-glossy",
+    "name": "Meitu Eco-Friendly High Glossy Exterior Wall Paint",
+    "type": "product",
+    "route": "/regular/ext-high-glossy",
+    "meta": {
+      "category": "exterior"
+    }
+  },
+  {
+    "id": "ext-natural-high-glossy",
+    "name": "Meitu Eco-Friendly High Glossy Natural Exterior Wall Paints",
+    "type": "product",
+    "route": "/regular/ext-natural-high-glossy",
+    "meta": {
+      "category": "exterior"
+    }
+  },
+  {
+    "id": "ext-constant-color",
+    "name": "Meitu Environmentally Constant Color Exterior Paint",
+    "type": "product",
+    "route": "/regular/ext-constant-color",
+    "meta": {
+      "category": "exterior"
+    }
+  },
+  {
+    "id": "ext-natural",
+    "name": "Meitu Environmentally Friendly Natural Exterior Wall Paint",
+    "type": "product",
+    "route": "/regular/ext-natural",
+    "meta": {
+      "category": "exterior"
+    }
+  },
+  {
+    "id": "ext-ceiling",
+    "name": "Meitu Eco-Friendly High Glossy Exterior Wall Paint Ceiling White",
+    "type": "product",
+    "route": "/regular/ext-ceiling",
+    "meta": {
+      "category": "exterior"
+    }
+  },
+  {
+    "id": "int-eco-highgloss",
+    "name": "Meitu Eco-Friendly High Glossy Interior Wall Paint",
+    "type": "product",
+    "route": "/regular/int-eco-highgloss",
+    "meta": {
+      "category": "interior"
+    }
+  },
+  {
+    "id": "int-eco-highgloss-natural",
+    "name": "Meitu Eco-Friendly High Glossy Natural Interior Wall Paint",
+    "type": "product",
+    "route": "/regular/int-eco-highgloss-natural",
+    "meta": {
+      "category": "interior"
+    }
+  },
+  {
+    "id": "int-eco-dark",
+    "name": "Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint",
+    "type": "product",
+    "route": "/regular/int-eco-dark",
+    "meta": {
+      "category": "interior"
+    }
+  },
+  {
+    "id": "int-eco-interior",
+    "name": "Meitu Eco-Friendly Interior Wall Paint",
+    "type": "product",
+    "route": "/regular/int-eco-interior",
+    "meta": {
+      "category": "interior"
+    }
+  },
+  {
+    "id": "int-constant",
+    "name": "Meitu Environmentally Friendly Constant Color Interior Wall Paint",
+    "type": "product",
+    "route": "/regular/int-constant",
+    "meta": {
+      "category": "interior"
+    }
+  },
+  {
+    "id": "int-natural",
+    "name": "Meitu Environmentally Friendly Natural Interior Wall Paint",
+    "type": "product",
+    "route": "/regular/int-natural",
+    "meta": {
+      "category": "interior"
+    }
+  },
+  {
+    "id": "int-ceiling",
+    "name": "Meitu Interior Wall Paint Ceiling White",
+    "type": "product",
+    "route": "/regular/int-ceiling",
+    "meta": {
+      "category": "interior"
+    }
+  },
+  {
+    "id": "ext-putting-01",
+    "name": "Meitu Exterior Wall Putting",
+    "type": "product",
+    "route": "/putting/ext-putting-01",
+    "meta": {
+      "category": "exteriorPutting"
+    }
+  },
+  {
+    "id": "3d-01",
+    "name": "Granite 3D Imitation Stone Paint",
+    "type": "product",
+    "route": "/granite/3d-01",
+    "meta": {
+      "category": "3d"
+    }
+  },
+  {
+    "id": "liquid-01",
+    "name": "Liquid Granite Dust Proof Surface Paint - 2D",
+    "type": "product",
+    "route": "/granite/liquid-01",
+    "meta": {
+      "category": "liquid"
+    }
+  },
+  {
+    "id": "realstone-01",
+    "name": "Meitu Real Stone",
+    "type": "product",
+    "route": "/granite/realstone-01",
+    "meta": {
+      "category": "realstone"
+    }
+  },
+  {
+    "id": "aluminium-primer",
+    "name": "Meitu Aluminium",
+    "type": "product",
+    "route": "/primer/aluminium-primer",
+    "meta": {
+      "category": "primer"
+    }
+  },
+  {
+    "id": "efficient-primer",
+    "name": "Meitu Environmentally Efficient Exterior Wall Primer",
+    "type": "product",
+    "route": "/primer/efficient-primer",
+    "meta": {
+      "category": "primer"
+    }
+  },
+  {
+    "id": "alkali-res",
+    "name": "Meitu Environmentally Friendly Alkali-Resistant Interior Wall Paint",
+    "type": "product",
+    "route": "/primer/alkali-res",
+    "meta": {
+      "category": "primer"
+    }
+  },
+  {
+    "id": "eco-friendly-primer",
+    "name": "Meitu Eco-Friendly Primer",
+    "type": "product",
+    "route": "/primer/eco-friendly-primer",
+    "meta": {
+      "category": "primer"
+    }
+  },
+  {
+    "id": "metal-primer",
+    "name": "Meitu Metal-Primer",
+    "type": "product",
+    "route": "/primer/metal-primer",
+    "meta": {
+      "category": "primer"
+    }
+  },
+  {
+    "id": "wood-primer",
+    "name": "Meitu Wood-Primer",
+    "type": "product",
+    "route": "/primer/wood-primer",
+    "meta": {
+      "category": "primer"
+    }
+  },
+  {
+    "id": "oth-001",
+    "name": "Meitu Damp Proof",
+    "type": "product",
+    "route": "/specialty/oth-001",
+    "meta": {
+      "category": "Specialty"
+    }
+  },
+  {
+    "id": "oth-002",
+    "name": "Meitu Enamel",
+    "type": "product",
+    "route": "/specialty/oth-002",
+    "meta": {
+      "category": "Specialty"
+    }
+  },
+  {
+    "id": "oth-003",
+    "name": "Meitu Gold",
+    "type": "product",
+    "route": "/specialty/oth-003",
+    "meta": {
+      "category": "Specialty"
+    }
+  },
+  {
+    "id": "oth-004",
+    "name": "Meitu PU Silicon",
+    "type": "product",
+    "route": "/specialty/oth-004",
+    "meta": {
+      "category": "Specialty"
+    }
+  },
+  {
+    "id": "oth-005",
+    "name": "Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint Terracotta",
+    "type": "product",
+    "route": "/specialty/oth-005",
+    "meta": {
+      "category": "Specialty"
+    }
+  },
+  {
+    "id": "floor-01",
+    "name": "Meitu Floor Paint",
+    "type": "product",
+    "route": "/specialty/floor-01",
+    "meta": {
+      "category": "floor"
+    }
+  },
+  {
+    "id": "Utility-1",
+    "name": "Air Compressor Machine",
+    "type": "product",
+    "route": "/utilities/Utility-1",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-3",
+    "name": "Design Roller",
+    "type": "product",
+    "route": "/utilities/Utility-3",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-4",
+    "name": "Design Tape",
+    "type": "product",
+    "route": "/utilities/Utility-4",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-5",
+    "name": "Floor Paint Shoes",
+    "type": "product",
+    "route": "/utilities/Utility-5",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-10",
+    "name": "Meitu Paints Regular Roller",
+    "type": "product",
+    "route": "/utilities/Utility-10",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-11",
+    "name": "Meitu Paints Set",
+    "type": "product",
+    "route": "/utilities/Utility-11",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-15",
+    "name": "Platform Ladder",
+    "type": "product",
+    "route": "/utilities/Utility-15",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-16",
+    "name": "Putting Knife",
+    "type": "product",
+    "route": "/utilities/Utility-16",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-17",
+    "name": "Putty Patta Handle",
+    "type": "product",
+    "route": "/utilities/Utility-17",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-18",
+    "name": "Safety Belt",
+    "type": "product",
+    "route": "/utilities/Utility-18",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-19",
+    "name": "Spray Gun Set",
+    "type": "product",
+    "route": "/utilities/Utility-19",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-20",
+    "name": "Spray Gun",
+    "type": "product",
+    "route": "/utilities/Utility-20",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "Utility-22",
+    "name": "Wall Grinding Machine",
+    "type": "product",
+    "route": "/utilities/Utility-22",
+    "meta": {
+      "category": "Utility"
+    }
+  },
+  {
+    "id": "road-01",
+    "name": "Meitu Road Marking Color",
+    "type": "product",
+    "route": "/utilities/road-01",
+    "meta": {
+      "category": "Utility"
+    }
+  },{
+    "id": "Utility-23",
+    "name": "Automatic Tinting Machine",
+    "type": "product",
+    "route": "/utilities/Utility-23",
+    "meta": {
+      "category": "Utility"
+    }
+  },{
+    "id": "Utility-24",
+    "name": "Manual Tinting Machine",
+    "type": "product",
+    "route": "/utilities/Utility-24",
+    "meta": {
+      "category": "Utility"
+    }
+  },{
+    "id": "Utility-25",
+    "name": "Paint Shaker Machine",
+    "type": "product",
+    "route": "/utilities/Utility-25",
+    "meta": {
+      "category": "Utility"
+    }
+  },{
+    "id": "Utility-26",
+    "name": "Real Stone Spray Gun",
+    "type": "product",
+    "route": "/utilities/Utility-26",
+    "meta": {
+      "category": "Utility"
+    }
+  }
+]

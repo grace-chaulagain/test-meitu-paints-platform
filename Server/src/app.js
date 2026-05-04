@@ -23,7 +23,8 @@ import "./models/Notification.model.js";
 
 const app = express();
 const clientIndexPath = path.join(CLIENT_DIST_DIR, "index.html");
-const shouldServeClient = IS_PRODUCTION && SERVE_CLIENT;
+const clientBuildExists = fs.existsSync(clientIndexPath);
+const shouldServeClient = IS_PRODUCTION && SERVE_CLIENT && clientBuildExists;
 
 if (TRUST_PROXY) {
   app.set("trust proxy", 1);
@@ -73,13 +74,13 @@ app.get("/api/health", publicReadRateLimit, (req, res) => {
 
 app.use("/api", routes);
 
-if (shouldServeClient) {
-  if (!fs.existsSync(clientIndexPath)) {
-    throw new Error(
-      `SERVE_CLIENT is enabled but frontend build was not found at ${CLIENT_DIST_DIR}`,
-    );
-  }
+if (IS_PRODUCTION && SERVE_CLIENT && !clientBuildExists) {
+  console.error(
+    `[server] SERVE_CLIENT is enabled but frontend build was not found at ${CLIENT_DIST_DIR}. API routes will still start; run the frontend build before serving the website.`,
+  );
+}
 
+if (shouldServeClient) {
   app.use(
     express.static(CLIENT_DIST_DIR, {
       index: false,
@@ -100,6 +101,10 @@ if (shouldServeClient) {
       ok: true,
       service: "meitu-api",
       env: NODE_ENV,
+      client:
+        IS_PRODUCTION && SERVE_CLIENT
+          ? "missing-build-output"
+          : "not-served-by-backend",
     });
   });
 }

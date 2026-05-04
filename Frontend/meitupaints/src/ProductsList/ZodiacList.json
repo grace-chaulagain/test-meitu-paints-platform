@@ -1,0 +1,398 @@
+[
+  {
+    "id": "aries",
+    "name": "Aries",
+    "hook": "Aries is defined by fire, courage, and unstoppable momentum.",
+    "copywrite": "Bold, energetic, and fearless  Aries thrives on action and intensity. As a natural leader, Aries spaces demand colours that reflect strength, passion, and confidence. These tones ignite ambition and movement.",
+    "imgSrc": "/Zodiac/Aries.png",
+    "bestColors": [
+      {
+        "name": "Crimson Flame (2189C)",
+        "rgb": "rgb(176, 32, 38)"
+      },
+      {
+        "name": "Fire Red (2224C)",
+        "rgb": "rgb(220, 20, 60)"
+      },
+      {
+        "name": "Burnt Ember (2147C)",
+        "rgb": "rgb(183, 28, 28)"
+      },
+      {
+        "name": "Molten Orange (2112C)",
+        "rgb": "rgb(255, 87, 34)"
+      },
+      {
+        "name": "Solar Orange (2028C)",
+        "rgb": "rgb(255, 140, 0)"
+      },
+      {
+        "name": "Deep Garnet (2175C)",
+        "rgb": "rgb(120, 0, 0)"
+      }
+    ]
+  },
+  {
+    "id": "taurus",
+    "name": "Taurus",
+    "hook": "Taurus is grounded in stability, comfort, and timeless beauty.",
+    "copywrite": "Reliable, patient, and deeply connected to nature  Taurus values harmony and calm. Earthy, grounded hues bring warmth and serenity, creating spaces that feel secure and luxurious.",
+    "imgSrc": "/Zodiac/Taurus.png",
+    "bestColors": [
+      {
+        "name": "Olive Grove (2622D)",
+        "rgb": "rgb(107, 142, 35)"
+      },
+      {
+        "name": "Moss Green (2623C)",
+        "rgb": "rgb(85, 107, 47)"
+      },
+      {
+        "name": "Clay Beige (2747D)",
+        "rgb": "rgb(210, 180, 140)"
+      },
+      {
+        "name": "Warm Sand (2746T)",
+        "rgb": "rgb(222, 184, 135)"
+      },
+      {
+        "name": "Forest Shadow (2539C)",
+        "rgb": "rgb(34, 85, 34)"
+      },
+      {
+        "name": "Stone Taupe (2914T)",
+        "rgb": "rgb(150, 135, 120)"
+      }
+    ]
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "hook": "Gemini is defined by curiosity, adaptability, and expression.",
+    "copywrite": "Vibrant, expressive, and endlessly curious  Gemini thrives in spaces that feel light and dynamic. Airy blues and playful yellows reflect movement, creativity, and communication.",
+    "imgSrc": "/Zodiac/Gemini.png",
+    "bestColors": [
+      {
+        "name": "Sky Blue (2409P)",
+        "rgb": "rgb(135, 206, 235)"
+      },
+      {
+        "name": "Soft Lemon (2669T)",
+        "rgb": "rgb(255, 239, 153)"
+      },
+      {
+        "name": "Cloud Grey (2920P)",
+        "rgb": "rgb(220, 220, 220)"
+      },
+      {
+        "name": "Pastel Aqua (2457P)",
+        "rgb": "rgb(175, 238, 238)"
+      },
+      {
+        "name": "Butter Yellow (2045P)",
+        "rgb": "rgb(255, 228, 181)"
+      },
+      {
+        "name": "Silver Mist (2956T)",
+        "rgb": "rgb(200, 200, 200)"
+      }
+    ]
+  },
+  {
+    "id": "cancer",
+    "name": "Cancer",
+    "hook": "Cancer is ruled by emotion, intuition, and deep comfort.",
+    "copywrite": "Nurturing, sensitive, and protective  Cancer creates spaces of warmth and emotional safety. Gentle neutrals and oceanic hues bring peace and belonging.",
+    "imgSrc": "/Zodiac/Cancer.png",
+    "bestColors": [
+      {
+        "name": "Moon White (2954P)",
+        "rgb": "rgb(245, 245, 245)"
+      },
+      {
+        "name": "Pearl Cream (2722P)",
+        "rgb": "rgb(255, 248, 220)"
+      },
+      {
+        "name": "Ocean Blue (2397D)",
+        "rgb": "rgb(70, 130, 180)"
+      },
+      {
+        "name": "Soft Aqua (2437P)",
+        "rgb": "rgb(176, 224, 230)"
+      },
+      {
+        "name": "Mist Grey (2919P)",
+        "rgb": "rgb(211, 211, 211)"
+      },
+      {
+        "name": "Shell Beige (2661P)",
+        "rgb": "rgb(230, 220, 200)"
+      }
+    ]
+  },
+  {
+    "id": "leo",
+    "name": "Leo",
+    "hook": "Leo is the embodiment of confidence, warmth, and radiance.",
+    "copywrite": "Charismatic and bold  Leo spaces command attention. Golden tones, rich ambers, and regal hues reflect pride, leadership, and creative expression.",
+    "imgSrc": "/Zodiac/Leo.png",
+    "bestColors": [
+      {
+        "name": "Royal Gold (2007C)",
+        "rgb": "rgb(212, 175, 55)"
+      },
+      {
+        "name": "Sunburst Yellow (2014C)",
+        "rgb": "rgb(255, 193, 7)"
+      },
+      {
+        "name": "Amber Glow (2028C)",
+        "rgb": "rgb(255, 160, 0)"
+      },
+      {
+        "name": "Regal Purple (2266C)",
+        "rgb": "rgb(128, 0, 128)"
+      },
+      {
+        "name": "Copper Shine (2105C)",
+        "rgb": "rgb(184, 115, 51)"
+      },
+      {
+        "name": "Warm Bronze (2105C)",
+        "rgb": "rgb(205, 127, 50)"
+      }
+    ]
+  },
+  {
+    "id": "virgo",
+    "name": "Virgo",
+    "hook": "Virgo is precision, purity, and thoughtful simplicity.",
+    "copywrite": "Detail-oriented and refined  Virgo thrives in clean, balanced spaces. Muted greens and soft neutrals promote clarity and calm.",
+    "imgSrc": "/Zodiac/Virgo.png",
+    "bestColors": [
+      {
+        "name": "Sage Green (2580D)",
+        "rgb": "rgb(138, 154, 91)"
+      },
+      {
+        "name": "Ivory Linen (2575P)",
+        "rgb": "rgb(255, 255, 240)"
+      },
+      {
+        "name": "Stone Grey (2921T)",
+        "rgb": "rgb(190, 190, 190)"
+      },
+      {
+        "name": "Muted Olive (2630C)",
+        "rgb": "rgb(128, 128, 0)"
+      },
+      {
+        "name": "Pale Moss (2628T)",
+        "rgb": "rgb(189, 183, 107)"
+      },
+      {
+        "name": "Warm Chalk (2656P)",
+        "rgb": "rgb(235, 235, 220)"
+      }
+    ]
+  },
+  {
+    "id": "libra",
+    "name": "Libra",
+    "hook": "Libra is harmony, balance, and refined elegance.",
+    "copywrite": "A lover of beauty and symmetry  Libra spaces feel light, polished, and serene. Soft pinks and neutral greys create visual balance and grace.",
+    "imgSrc": "/Zodiac/Libra.png",
+    "bestColors": [
+      {
+        "name": "Blush Rose (2123T)",
+        "rgb": "rgb(255, 182, 193)"
+      },
+      {
+        "name": "Soft Mauve (2236D)",
+        "rgb": "rgb(221, 160, 221)"
+      },
+      {
+        "name": "Cloud Grey (2869P)",
+        "rgb": "rgb(230, 230, 230)"
+      },
+      {
+        "name": "Dusty Pink (2216D)",
+        "rgb": "rgb(219, 112, 147)"
+      },
+      {
+        "name": "Ivory Pearl (2702P)",
+        "rgb": "rgb(250, 240, 230)"
+      },
+      {
+        "name": "Silver Ash (2920P)",
+        "rgb": "rgb(192, 192, 192)"
+      }
+    ]
+  },
+  {
+    "id": "scorpio",
+    "name": "Scorpio",
+    "hook": "Scorpio is intensity, depth, and quiet power.",
+    "copywrite": "Mysterious and bold  Scorpio thrives in dramatic spaces. Deep reds and shadowed neutrals evoke passion, privacy, and sophistication.",
+    "imgSrc": "/Zodiac/Scorpio.png",
+    "bestColors": [
+      {
+        "name": "Wine Noir (2147C)",
+        "rgb": "rgb(96, 0, 32)"
+      },
+      {
+        "name": "Midnight Plum (2266C)",
+        "rgb": "rgb(72, 0, 72)"
+      },
+      {
+        "name": "Charcoal Black (3008C)",
+        "rgb": "rgb(30, 30, 30)"
+      },
+      {
+        "name": "Blood Red",
+        "rgb": "rgb(139, 0, 0)"
+      },
+      {
+        "name": "Obsidian (3008C)",
+        "rgb": "rgb(20, 20, 20)"
+      },
+      {
+        "name": "Smoked Violet (2250D)",
+        "rgb": "rgb(88, 69, 85)"
+      }
+    ]
+  },
+  {
+    "id": "sagittarius",
+    "name": "Sagittarius",
+    "hook": "Sagittarius is freedom, exploration, and optimism.",
+    "copywrite": "Adventurous and open-minded  Sagittarius spaces feel expansive and energetic. Blues and purples inspire curiosity and movement.",
+    "imgSrc": "/Zodiac/Sagittarius.png",
+    "bestColors": [
+      {
+        "name": "Cobalt Blue (2399C)",
+        "rgb": "rgb(0, 71, 171)"
+      },
+      {
+        "name": "Royal Indigo ",
+        "rgb": "rgb(75, 0, 130)"
+      },
+      {
+        "name": "Explorer Teal (2496D)",
+        "rgb": "rgb(0, 128, 128)"
+      },
+      {
+        "name": "Sky Horizon (2416P)",
+        "rgb": "rgb(135, 206, 250)"
+      },
+      {
+        "name": "Adventure Purple",
+        "rgb": "rgb(106, 13, 173)"
+      },
+      {
+        "name": "Sandstone (2049C)",
+        "rgb": "rgb(210, 180, 140)"
+      }
+    ]
+  },
+  {
+    "id": "capricorn",
+    "name": "Capricorn",
+    "hook": "Capricorn represents discipline, ambition, and mastery.",
+    "copywrite": "Structured and timeless  Capricorn spaces reflect authority and focus. Neutral tones create environments of control and refinement.",
+    "imgSrc": "/Zodiac/Capricorn.png",
+    "bestColors": [
+      {
+        "name": "Granite Grey (2873D)",
+        "rgb": "rgb(112, 128, 144)"
+      },
+      {
+        "name": "Slate Black (2874D)",
+        "rgb": "rgb(54, 69, 79)"
+      },
+      {
+        "name": "Charcoal Steel (2875C)",
+        "rgb": "rgb(70, 70, 70)"
+      },
+      {
+        "name": "Ash Grey (2871P)",
+        "rgb": "rgb(169, 169, 169)"
+      },
+      {
+        "name": "Warm Taupe (2769D)",
+        "rgb": "rgb(160, 140, 120)"
+      },
+      {
+        "name": "Iron Stone (2875C)",
+        "rgb": "rgb(90, 90, 90)"
+      }
+    ]
+  },
+  {
+    "id": "aquarius",
+    "name": "Aquarius",
+    "hook": "Aquarius is defined by wisdom, vision, and innovation.",
+    "copywrite": "Progressive and idealistic  Aquarius thrives in modern, forward-thinking spaces. Cool blues and silvers represent intellect and originality.",
+    "imgSrc": "/Zodiac/Aquarius.png",
+    "bestColors": [
+      {
+        "name": "Electric Blue (2410T)",
+        "rgb": "rgb(0, 191, 255)"
+      },
+      {
+        "name": "Frost Silver (2972P)",
+        "rgb": "rgb(200, 200, 200)"
+      },
+      {
+        "name": "Neon Teal (2517D)",
+        "rgb": "rgb(0, 255, 204)"
+      },
+      {
+        "name": "Ice Grey (3003P)",
+        "rgb": "rgb(220, 220, 220)"
+      },
+      {
+        "name": "Future Cyan (2410T)",
+        "rgb": "rgb(0, 229, 255)"
+      },
+      {
+        "name": "Steel Blue (2377D)",
+        "rgb": "rgb(70, 130, 180)"
+      }
+    ]
+  },
+  {
+    "id": "pisces",
+    "name": "Pisces",
+    "hook": "Pisces is intuition, emotion, and creative flow.",
+    "copywrite": "Dreamy and compassionate  Pisces spaces feel fluid and artistic. Soft purples and ocean blues evoke imagination and serenity.",
+    "imgSrc": "/Zodiac/Pisces.png",
+    "bestColors": [
+      {
+        "name": "Seafoam Blue (2515T)",
+        "rgb": "rgb(127, 255, 212)"
+      },
+      {
+        "name": "Lavender Mist (2304P)",
+        "rgb": "rgb(230, 230, 250)"
+      },
+      {
+        "name": "Ocean Teal (2502D)",
+        "rgb": "rgb(64, 224, 208)"
+      },
+      {
+        "name": "Dream Violet (2265D)",
+        "rgb": "rgb(186, 85, 211)"
+      },
+      {
+        "name": "Soft Blue Grey (2983T)",
+        "rgb": "rgb(176, 196, 222)"
+      },
+      {
+        "name": "Pearl Blue (2982T)",
+        "rgb": "rgb(240, 248, 255)"
+      }
+    ]
+  }
+]

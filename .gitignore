@@ -3,6 +3,8 @@ node_modules
 dist
 logs
 *.log
+*.zip
+*recovery-codes*.txt
 .deploy/
 hostinger-package-staging/
 dist-packages/

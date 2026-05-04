@@ -39,7 +39,7 @@ Use these settings:
 - Output directory: leave unset if Hostinger allows it. If hPanel requires a value for Other, use `.`. Do not set this to `Frontend/meitupaints/dist`, because this is not a static-only Vite deployment.
 - Build command: `npm ci --omit=dev`
 - Start command: `npm start`
-- Node.js version: Node 20, 22, or 24
+- Node.js version: Node 22 or 24 recommended. Node 20 must be 20.19 or newer for the Vite build.
 
 The ZIP already contains `Frontend/meitupaints/dist`, so Hostinger should not run the frontend build for ZIP deployments.
 
@@ -117,3 +117,18 @@ npm run package:hostinger
 For GitHub/source deployments instead of ZIP uploads, use the repository root and set the build command to `npm run hostinger:build`.
 
 If environment variables change, redeploy or restart the Node.js app from hPanel.
+
+## GitHub Deployment 503 Checklist
+
+If Hostinger shows `503 Service Unavailable`, the Node process usually failed to start or exited immediately. For GitHub-based deployment, verify these settings first:
+
+- App root: repository root, not `Server` and not `Frontend/meitupaints`
+- Entry file: `server.js`
+- Build command: `npm run hostinger:build`
+- Start command: `npm start`
+- Node.js version: 22 or 24 recommended. Node 20 must be 20.19 or newer for the Vite build.
+- Do not set `HOST` in hPanel. Hostinger should control host binding.
+- Do not set a custom `PORT` unless Hostinger explicitly provides that value.
+- Keep `SERVE_CLIENT=true` only when the build command has produced `Frontend/meitupaints/dist`
+
+Then open the Hostinger Node.js app logs. The server prints readable startup failures such as missing environment variables, database connection failures, or missing frontend build output.

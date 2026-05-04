@@ -1,0 +1,21 @@
+[
+  {
+    "id": "liquid-01",
+    "category": "liquid",
+    "name": "Meitu Liquid Granite Paint",
+    "size": "4L",
+    "file": "Meitu Liquid Granite (Water-in-Water Colorful Paint Four in One).webp",
+    "src": "/Liquid/Meitu Liquid Granite (Water-in-Water Colorful Paint Four in One).webp",
+    "sizes": ["4L", "4L1", "10L", "10L1"],
+    "leadtext": "Meitu Liquid Granite paint is a new generation paint which gives an asthetic granite finish look to the surface. It is a water based paint suitable for both interior and exterior use with a long lasting and durable look of the surface where it is applied. Meitu granite paint is applied by using spray gun which is normally used for application of the texture paint. The natural granite texture of the coating gives people a sense of elegance, harmony, solemnity to achieve vivid, natural effect.",
+    "features": ["Eco friendly with no smells",
+                 "Provides a decorative and protective plastic coat",
+                 "Waterproof and Ultra shining",
+                 "Economical in comparison to granite",
+                 "Highly Durable",
+                 "Easy to clean"
+                ],
+    "warranty": "10yrs warranty",
+    "nscertified": true
+  }
+]

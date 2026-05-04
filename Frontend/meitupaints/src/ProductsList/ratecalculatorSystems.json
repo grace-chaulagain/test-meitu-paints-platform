@@ -1,0 +1,42 @@
+[
+  {
+    "key": "twoPaint",
+    "title": "Paint",
+    "desc": "Material only"
+  },
+  {
+    "key": "twoPaintLabour",
+    "title": "Paint + Operatives",
+    "desc": "Labour included"
+  },
+  {
+    "key": "primerTwoPaintLabour",
+    "title": "Primer + Paint + Operatives",
+    "desc": "Recommended standard"
+  },
+  {
+    "key": "fullSystem",
+    "title": "Putting + Primer + Paint + Operatives",
+    "desc": "Full System"
+  },
+  {
+    "key": "4 in one color + Operatives",
+    "title": "4 in one color + Operatives",
+    "desc": "4 in one color + Operatives"
+  },
+  {
+    "key": "putting + 4 in one color + Operatives",
+    "title": "putting + 4 in one color + Operatives",
+    "desc": "putting + 4 in one color + Operatives"
+  },
+  {
+    "key": "3 in one + Operatives",
+    "title": "3 in one + Operatives",
+    "desc": "3 in one + Operatives"
+  },
+  {
+    "key": "putting + 3 in one color + Operatives",
+    "title": "putting + 3 in one color + Operatives",
+    "desc": "putting + 3 in one color + Operatives"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "efficient-primer",
+    "category": "primer",
+    "name": "Meitu Environmentally Efficient Exterior Wall Primer",
+    "file": "Meitu Environmentally Efficient Exterior Wall Primer.webp",
+    "src": "/Regular/exterior/Meitu Environmentally Efficient Exterior Wall Primer.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "leadtext": "The Meitu Environmentally Efficient Exterior Wall Primer is a basecoat primer designed to prepare exterior wall surfaces for their finishing coats. This primer acts as a protective sealing layer that improves adhesion and enhances the performance of the topcoat, while also incorporating ecofriendly characteristics in line with Meitu’s commitment to sustainable paint solutions.",
+    "features": [
+      "Ecoefficient formulation",
+      "Improved adhesion",
+      "Seals the substrate",
+      "Weather protection support."
+    ],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "alkali-res",
+    "category": "primer",
+    "name": "Meitu Environmentally Friendly Alkali-Resistant Interior Wall Paint",
+    "file": "Meitu Environmentally Friendly Alkali-Resistant Interior Wall Paint.webp",
+    "src": "/Regular/interior/Meitu Environmentally Friendly Alkali-Resistant Interior Wall Paint.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "leadtext": "The Meitu Alkali Resistant Interior Wall Primer is specially formulated for interior plaster or concrete walls that may release alkaline substances. This primer creates a stable, sealed surface that neutralizes alkali and provides a strong base for interior topcoats. Its design helps prevent issues such as discoloration, chalking, or peeling caused by alkali efflorescence beneath the paint.",
+    "features": [
+      "Alkali resistance",
+      "Excellent substrate penetration",
+      "Enhances durability",
+      "Ecofriendly and low odor"
+    ],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "eco-friendly-primer",
+    "category": "primer",
+    "name": "Meitu Eco-Friendly Primer",
+    "file": "Meitu Eco-Friendly Primer.webp",
+    "src": "/Primer/Meitu Eco-Friendly Primer.webp",
+    "sizes": ["1L", "4L", "10L", "20L"],
+    "leadtext": "The Meitu EcoFriendly Primer is a versatile primer suitable for both interior and exterior applications where an ecoconscious base layer is desired. This primer enhances the performance of subsequent paint layers by sealing surfaces, improving adhesion, and helping ensure a uniform finish — all while maintaining a formulation that prioritizes reduced environmental impact.",
+    "features": [
+      "Ecofriendly formulation.",
+      "Surface sealing and stabilization",
+      "Improved topcoat performance",
+      "Applicable across surfaces"
+    ],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "metal-primer",
+    "category": "primer",
+    "name": "Meitu Metal-Primer",
+    "file": "Meitu Metal-Primer.webp",
+    "src": "/Primer/Meitu Metal-Primer.webp",
+    "sizes": ["1L", "4L", "500mL"],
+    "leadtext": "Meitu Metal primer is a specially formulated coating designed to prepare metal surfaces for painting. It improves paint adhesion, prevents corrosion, and extends the life of both the paint and the metal substrate. Metal primers are essential for iron, steel, aluminium, and other metals used in construction, machinery, furniture, and industrial applications. They act as a protective barrier against rust, moisture, and environmental damage, ensuring a smooth, long-lasting finish.",
+    "features": [
+      "Anti-Corrosive Protection",
+      "Strong Adhesion",
+      "Smooth Surface Preparation",
+      "Durable and Long-Lasting",
+      "Versatile Application",
+      "Quick Drying"
+    ],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "wood-primer",
+    "category": "primer",
+    "name": "Meitu Wood-Primer",
+    "file": "Meitu Wood-Primer.webp",
+    "src": "/Primer/Meitu Wood-Primer.webp",
+    "sizes": ["1L", "4L", "500mL"],
+    "leadtext": "Meitu Wood primer is a preparatory coating designed to improve the adhesion and durability of finishing paints on wooden surfaces. It seals porous wood, prevents uneven absorption of topcoats, and provides a smooth, uniform base for painting. Wood primer also protects wood from moisture, stains, and fungal attack, extending the life of the paint and the wood itself. It is suitable for interior and exterior applications on furniture, doors, windows, and decorative woodwork.",
+    "features": [
+      "Excellent Adhesion",
+      "Seals Porous Surfaces",
+      "Moisture Protection",
+      "Fungal and Decay Resistance",
+      "Smooth Finish",
+      "Versatile Application"
+    ],
+    "warranty": "",
+    "nscertified": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "floor-01",
+    "category": "floor",
+    "name": "Meitu Floor Paint",
+    "file": "Meitu Floor Paint.webp",
+    "src": "/Floor/Meitu Floor Paint.webp",
+    "sizes": ["3kg", "2.5kg", "2kg"],
+    "leadtext": "Meitu granite floor paint is a water based anti-algae, anti fungus, high performance paint for external as well as internal floor surfaces.",
+    "features": ["Eco friendly with no smells",
+                  "High Durability",
+                  "Scratch Resistant",
+                  "Cleanable",
+                  "Smooth and mirror like finishing"
+                ],
+    "warranty": "7yrs Warranty",
+    "nscertified": true
+  }
+]

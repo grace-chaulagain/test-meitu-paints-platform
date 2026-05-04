@@ -1,0 +1,218 @@
+[
+  {
+    "id": "aries",
+    "name": "Aries",
+    "desc": "Bold, driven, and fiery. Reds and intense warm tones amplify your energy.",
+    "src": "/Zodiac/Aries.png",
+    "accent": "rgba(225,29,46,.55)",
+    "chips": [
+      "Energy",
+      "Warmth",
+      "Momentum"
+    ],
+    "palette": [
+      "#C1121F",
+      "#E11D2E",
+      "#FFB4A2",
+      "#3A0A0E"
+    ]
+  },
+  {
+    "id": "taurus",
+    "name": "Taurus",
+    "desc": "Grounded and luxurious. Earthy greens and soft neutrals bring balance.",
+    "src": "/Zodiac/Taurus.png",
+    "accent": "rgba(34,197,94,.45)",
+    "chips": [
+      "Stability",
+      "Comfort",
+      "Craft"
+    ],
+    "palette": [
+      "#2E7D32",
+      "#A7C7A0",
+      "#F2E8CF",
+      "#2A2A2A"
+    ]
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "desc": "Dynamic and expressive. Light yellows and sky blues fuel creativity.",
+    "src": "/Zodiac/Gemini.png",
+    "accent": "rgba(59,130,246,.40)",
+    "chips": [
+      "Curiosity",
+      "Clarity",
+      "Flow"
+    ],
+    "palette": [
+      "#F4D35E",
+      "#60A5FA",
+      "#E5E7EB",
+      "#111827"
+    ]
+  },
+  {
+    "id": "cancer",
+    "name": "Cancer",
+    "desc": "Emotional and intuitive. Pearl whites and moonlit blues soothe your space.",
+    "src": "/Zodiac/Cancer.png",
+    "accent": "rgba(99,102,241,.38)",
+    "chips": [
+      "Calm",
+      "Care",
+      "Softness"
+    ],
+    "palette": [
+      "#EEF2FF",
+      "#93C5FD",
+      "#CBD5E1",
+      "#0B0B0C"
+    ]
+  },
+  {
+    "id": "leo",
+    "name": "Leo",
+    "desc": "Radiant and confident. Golds, ambers, and royal tones command presence.",
+    "src": "/Zodiac/Leo.png",
+    "accent": "rgba(245,158,11,.45)",
+    "chips": [
+      "Presence",
+      "Glow",
+      "Confidence"
+    ],
+    "palette": [
+      "#F59E0B",
+      "#FBBF24",
+      "#7C2D12",
+      "#0B0B0C"
+    ]
+  },
+  {
+    "id": "virgo",
+    "name": "Virgo",
+    "desc": "Precise and calm. Soft greys and sage greens enhance clarity.",
+    "src": "/Zodiac/Virgo.png",
+    "accent": "rgba(16,185,129,.34)",
+    "chips": [
+      "Order",
+      "Focus",
+      "Clean"
+    ],
+    "palette": [
+      "#94A3B8",
+      "#A7C7A0",
+      "#F8FAFC",
+      "#111827"
+    ]
+  },
+  {
+    "id": "libra",
+    "name": "Libra",
+    "desc": "Harmonious and elegant. Blush tones and balanced neutrals inspire beauty.",
+    "src": "/Zodiac/Libra.png",
+    "accent": "rgba(244,114,182,.35)",
+    "chips": [
+      "Balance",
+      "Elegance",
+      "Light"
+    ],
+    "palette": [
+      "#F472B6",
+      "#FBCFE8",
+      "#E5E7EB",
+      "#0B0B0C"
+    ]
+  },
+  {
+    "id": "scorpio",
+    "name": "Scorpio",
+    "desc": "Deep and magnetic. Dark reds, plums, and mysterious hues resonate.",
+    "src": "/Zodiac/Scorpio.png",
+    "accent": "rgba(168,85,247,.30)",
+    "chips": [
+      "Depth",
+      "Contrast",
+      "Mood"
+    ],
+    "palette": [
+      "#7F1D1D",
+      "#5B21B6",
+      "#111827",
+      "#0B0B0C"
+    ]
+  },
+  {
+    "id": "sagittarius",
+    "name": "Sagittarius",
+    "desc": "Adventurous and free. Indigo, cobalt, and expansive blues ignite motion.",
+    "src": "/Zodiac/Sagittarius.png",
+    "accent": "rgba(37,99,235,.40)",
+    "chips": [
+      "Motion",
+      "Exploration",
+      "Sky"
+    ],
+    "palette": [
+      "#1D4ED8",
+      "#0EA5E9",
+      "#E5E7EB",
+      "#0B0B0C"
+    ]
+  },
+  {
+    "id": "capricorn",
+    "name": "Capricorn",
+    "desc": "Structured and disciplined. Charcoal, stone, and executive neutrals align.",
+    "src": "/Zodiac/Capricorn.png",
+    "accent": "rgba(0,0,0,.28)",
+    "chips": [
+      "Structure",
+      "Stone",
+      "Discipline"
+    ],
+    "palette": [
+      "#111827",
+      "#334155",
+      "#E5E7EB",
+      "#0B0B0C"
+    ]
+  },
+  {
+    "id": "aquarius",
+    "name": "Aquarius",
+    "desc": "Visionary and modern. Electric blues and silvers inspire innovation.",
+    "src": "/Zodiac/Aquarius.png",
+    "accent": "rgba(14,165,233,.36)",
+    "chips": [
+      "Future",
+      "Edge",
+      "Air"
+    ],
+    "palette": [
+      "#0EA5E9",
+      "#A3A3A3",
+      "#E5E7EB",
+      "#0B0B0C"
+    ]
+  },
+  {
+    "id": "pisces",
+    "name": "Pisces",
+    "desc": "Dreamy and intuitive. Seafoam, lavender, and fluid pastels calm the soul.",
+    "src": "/Zodiac/Pisces.png",
+    "accent": "rgba(167,139,250,.35)",
+    "chips": [
+      "Dream",
+      "Sea",
+      "Soft"
+    ],
+    "palette": [
+      "#A7F3D0",
+      "#A78BFA",
+      "#F3E8FF",
+      "#0B0B0C"
+    ]
+  }
+]

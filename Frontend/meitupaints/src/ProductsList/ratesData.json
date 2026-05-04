@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": "Meitu Eco-Friendly High Glossy Exterior Wall Paint",
+    "category": "Exterior",
+    "rates": {
+      "twoPaint": 17,
+      "twoPaintLabour": 23,
+      "primerTwoPaintLabour": 32,
+      "fullSystem": 50
+    },
+    "src": "Regular/exterior/Meitu Eco-Friendly High Glossy Exterior Wall Paint (20L).webp"
+  },
+  {
+    "id": 2,
+    "name": "Meitu Eco-Friendly High Glossy Natural Exterior Wall Paint",
+    "category": "Exterior",
+    "rates": {
+      "twoPaint": 15,
+      "twoPaintLabour": 21,
+      "primerTwoPaintLabour": 30,
+      "fullSystem": 45
+    },
+    "src": "Regular/exterior/Meitu Eco-Friendly High Glossy Natural Exterior Wall Paints (20L).webp"
+  },
+  {
+    "id": 3,
+    "name": "Meitu Environmentally Friendly Natural Exterior Wall Paint",
+    "category": "Exterior",
+    "rates": {
+      "twoPaint": 12,
+      "twoPaintLabour": 18,
+      "primerTwoPaintLabour": 29,
+      "fullSystem": 40
+    },
+    "src": "Regular/exterior/Meitu Environmentally Friendly Natural Exterior Wall Paint (20L).webp"
+  },
+  {
+    "id": 4,
+    "name": "Meitu Environmentally Friendly Constant Color Exterior Wall Paint",
+    "category": "Exterior",
+    "rates": {
+      "twoPaint": 8,
+      "twoPaintLabour": 14,
+      "primerTwoPaintLabour": 27,
+      "fullSystem": 35
+    },
+    "src": "Regular/exterior/Meitu Environmentally Constant Color Exterior Paint (20L).webp"
+  },
+  {
+    "id": 5,
+    "name": "Meitu Eco-Friendly High Glossy Interior Wall Paint",
+    "category": "Interior",
+    "rates": {
+      "twoPaint": 18,
+      "twoPaintLabour": 24,
+      "primerTwoPaintLabour": 33,
+      "fullSystem": 55
+    },
+    "src": "Regular/interior/Meitu Eco-Friendly High Glossy Interior Wall Paint (20L).webp"
+  },
+  {
+    "id": 6,
+    "name": "Meitu Eco-Friendly High Glossy Natural Interior Wall Paint",
+    "category": "Interior",
+    "rates": {
+      "twoPaint": 16,
+      "twoPaintLabour": 22,
+      "primerTwoPaintLabour": 31,
+      "fullSystem": 45
+    },
+    "src": "Regular/interior/Meitu Eco-Friendly High Glossy Natural Interior Wall Paint (20L).webp"
+  },
+  {
+    "id": 7,
+    "name": "Meitu Environmentally Friendly Natural Interior Wall Paint",
+    "category": "Interior",
+    "rates": {
+      "twoPaint": 12,
+      "twoPaintLabour": 18,
+      "primerTwoPaintLabour": 29,
+      "fullSystem": 40
+    },
+    "src": "Regular/interior/Meitu Environmentally Friendly Natural Interior Wall Paint (20L).webp"
+  },
+  {
+    "id": 8,
+    "name": "Meitu Environmentally Friendly Constant Color Interior Wall Paint",
+    "category": "Interior",
+    "rates": {
+      "twoPaint": 9,
+      "twoPaintLabour": 15,
+      "primerTwoPaintLabour": 26,
+      "fullSystem": 33
+    },
+    "src": "Regular/interior/Meitu Environmentally Friendly Constant Color Interior Wall Paint (20L).webp"
+  },
+  {
+    "id": 9,
+    "name": "Meitu Eco-Friendly Interior Wall Paint",
+    "category": "Interior",
+    "rates": {
+      "twoPaint": 5,
+      "twoPaintLabour": 11,
+      "primerTwoPaintLabour": 19,
+      "fullSystem": 30
+    },
+    "src": "Regular/interior/Meitu Eco-Friendly Interior Wall Paint (20L).webp"
+  },
+  {
+    "id": 10,
+    "name": "Meitu Eco-Friendly Dark Color C1 Interior Wall Paint",
+    "category": "Interior",
+    "rates": {
+      "twoPaint": 12,
+      "twoPaintLabour": 18,
+      "primerTwoPaintLabour": 27,
+      "fullSystem": 44
+    },
+    "src": "Regular/interior/Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint (20L).webp"
+  },
+  {
+    "id": 11,
+    "name": "Meitu Eco-Friendly Dark Color C2 Exterior Wall Paint",
+    "category": "Exterior",
+    "rates": {
+      "twoPaint": 17,
+      "twoPaintLabour": 23,
+      "primerTwoPaintLabour": 32,
+      "fullSystem": 50
+    },
+    "src": "Regular/interior/Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint (20L).webp"
+  },
+  {
+    "id": 12,
+    "name": "Meitu Acrylic Distemper",
+    "category": "Interior",
+    "rates": {
+      "twoPaint": 4,
+      "twoPaintLabour": 10,
+      "primerTwoPaintLabour": 17,
+      "fullSystem": 25
+    },
+    "src": "Regular/distemper/Meitu Acrylic Distemper Interior Wall Paints (20kg).webp"
+  },
+  {
+    "id": 13,
+    "name": "Meitu Eco-Friendly Terracotta Color",
+    "category": "Specialty",
+    "rates": {
+      "twoPaint": 12,
+      "twoPaintLabour": 18,
+      "primerTwoPaintLabour": 29,
+      "fullSystem": 45
+    },
+    "src": "Specialty/Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint Terracotta (20L).webp"
+  },
+  {
+    "id": 14,
+    "name": "Meitu Damp Proof",
+    "category": "Specialty",
+    "rates": {
+      "twoPaint": 18,
+      "twoPaintLabour": 24    
+    },
+    "src": "Specialty/Meitu Damp Proof (20L).webp"
+  },
+  {
+    "id": 15,
+    "name": "Meitu PU Silicon",
+    "category": "Specialty",
+    "rates": {
+      "twoPaint": 12,
+      "twoPaintLabour": 18
+    },
+    "src": "Specialty/Meitu PU Silicon (4L).webp"
+  },
+  {
+    "id": 18,
+    "name": "Meitu Liquid Granite 3D Imitation Stone Paint",
+    "category": "Granite (Exterior and Interior)",
+    "rates": {
+      "4 in one color + Operatives": 180,
+      "putting + 4 in one color + Operatives": 205
+    },
+    "src": "3d/Meitu Granite 3D Imitation Stone Paint (12kg).webp"
+  },
+  {
+    "id": 19,
+    "name": "Meitu Liquid Granite 2D Water-in-Water 4-in-1 Paint",
+    "category": "Granite (Exterior and Interior)",
+    "rates": {
+      "4 in one color + Operatives": 130,
+      "putting + 4 in one color + Operatives": 155
+    },
+    "src": "Liquid/Meitu Liquid Granite (Water-in-Water Colorful Paint Four in One) (10L).webp"
+  },
+  {
+    "id": 20,
+    "name": "Meitu Epoxy Regular Floor Paint",
+    "category": "Granite (Exterior and Interior)",
+    "rates": {
+      "4 in one color + Operatives": 115 
+    },
+    "src": "Floor/Meitu Floor Paint (3kg).webp"
+  },
+  {
+    "id": 21,
+    "name": "Meitu Epoxy Granite Floor Paint",
+    "category": "Granite (Exterior and Interior)",
+    "rates": {
+      "4 in one color + Operatives": 190 
+    },
+    "src": "Floor/Meitu Floor Paint (2kg).webp"
+  },
+  {
+    "id": 22,
+    "name": "Meitu Real Stone Paint",
+    "category": "RealStone",
+    "rates": {
+      "3 in one + Operatives": 155,
+      "putting + 3 in one color + Operatives": 180
+    },
+    "src": "Realstone/Meitu Real Stone (20L).webp"
+  },
+  {
+    "id": 26,
+    "name": "Meitu Wood Primer + Enamel",
+    "category": "Enamel",
+    "rates": {
+      "twoPaint": 18,
+      "twoPaintLabour": 24,
+      "primerTwoPaintLabour": 35
+    },
+    "src": "Primer/Meitu Wood-Primer (4L).webp"
+  },
+  {
+    "id": 27,
+    "name": "Meitu Metal Primer + Enamel",
+    "category": "Enamel",
+    "rates": {
+      "twoPaint": 18,
+      "twoPaintLabour": 24,
+      "primerTwoPaintLabour": 32
+    },
+    "src": "Primer/Meitu Metal-Primer (4L).webp"
+  }
+]

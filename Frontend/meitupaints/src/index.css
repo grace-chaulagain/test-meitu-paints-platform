@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+
+html{
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body{
+  width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
+}
+
+#root{
+  min-width: 0;
+  overflow-x: clip;
+}
+
+img,
+svg,
+video,
+canvas{
+  max-width: 100%;
+}
+
+button,
+input,
+select,
+textarea{
+  max-width: 100%;
+}
+
+.container{
+  width: min(100%, var(--bs-container-max-width, 1320px));
+}
+
+@media (max-width: 640px){
+  .container{
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

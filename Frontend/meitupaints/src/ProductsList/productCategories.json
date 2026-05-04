@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Regular",
+    "description": "Everyday brilliance that lasts a lifetime.",
+    "img": "Regular.svg",
+    "link": "/regular",
+    "tone": "blue"
+  },
+  {
+    "id": "Granite",
+    "description": "Stone-strong elegance in every coat.",
+    "img": "Granite.svg",
+    "link": "/granite",
+    "tone": "slate"
+  },
+  {
+    "id": "Primer",
+    "description": "Smooth flow, flawless finish.",
+    "img": "Primer.svg",
+    "link": "/primer",
+    "tone": "amber"
+  },
+  {
+    "id": "Putting",
+    "description": "Create smoother walls that last way longer.",
+    "img": "Wall Putting.svg",
+    "link": "/putting",
+    "tone": "mint"
+  },
+  {
+    "id": "Specialty",
+    "description": "Shimmer, shine, and strength redefined.",
+    "img": "Specialty.svg",
+    "link": "/specialty",
+    "tone": "purple"
+  },
+  {
+    "id": "Tools and accessories",
+    "description": "Essential tools that make perfection possible.",
+    "img": "Utilities.webp",
+    "link": "/utilities",
+    "tone": "mono"
+  }
+]

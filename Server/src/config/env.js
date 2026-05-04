@@ -59,10 +59,24 @@ function requireEnv(keys = []) {
   }
 }
 
+function warnMissingEnv(keys = []) {
+  const missing = keys.filter((key) => !trimEnv(key));
+  if (missing.length) {
+    console.warn(
+      `[env] Optional production integrations are not fully configured: ${missing.join(
+        ", ",
+      )}. Related features may be unavailable until these are set.`,
+    );
+  }
+}
+
 export const NODE_ENV = normalizeNodeEnv(process.env.NODE_ENV);
 export const IS_PRODUCTION = NODE_ENV === "production";
 export const PORT = Number(process.env.PORT || 5002);
-export const HOST = trimEnv("HOST", IS_PRODUCTION ? "" : "127.0.0.1");
+export const HOST =
+  IS_PRODUCTION && !boolEnv("ALLOW_CUSTOM_HOST_BIND", false)
+    ? ""
+    : trimEnv("HOST", IS_PRODUCTION ? "" : "127.0.0.1");
 export const MONGO_URI = trimEnv("MONGO_URI") || trimEnv("MONGODB_URI");
 
 export const JWT_ACCESS_SECRET = trimEnv("JWT_ACCESS_SECRET");
@@ -108,6 +122,9 @@ const requiredProductionEnv = [
   "JWT_ACCESS_SECRET",
   "JWT_REFRESH_SECRET",
   "APP_URL",
+];
+
+const optionalProductionIntegrationEnv = [
   "SMTP_HOST",
   "SMTP_PORT",
   "SMTP_USER",
@@ -124,6 +141,7 @@ if (IS_PRODUCTION) {
   }
 
   requireEnv(requiredProductionEnv);
+  warnMissingEnv(optionalProductionIntegrationEnv);
 
   if (isLocalUrl(APP_URL) && !boolEnv("ALLOW_LOCAL_PRODUCTION_URLS", false)) {
     throw new Error(

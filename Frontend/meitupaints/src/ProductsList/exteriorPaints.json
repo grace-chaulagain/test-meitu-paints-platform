@@ -1,0 +1,116 @@
+[
+  {
+    "id": "ext-high-glossy",
+    "category": "exterior",
+    "name": "Meitu Eco-Friendly High Glossy Exterior Wall Paint",
+    "file": "Meitu Eco-Friendly High Glossy Exterior Wall Paint.webp",
+    "src": "/Regular/exterior/Meitu Eco-Friendly High Glossy Exterior Wall Paint.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "order": 1,
+    "leadtext": "Meitu’s eco-friendly high glossy exterior wall paint is specially formulated to provide a durable, high-shine finish that enhances the look of any building exterior. Designed for long-lasting performance, this paint offers excellent resistance against weathering, UV rays, and pollution, ensuring the walls remain vibrant over time. Its eco-friendly formulation reduces harmful emissions and odors, making it safe for the environment and nearby occupants. Ideal for modern and elegant facades, this paint delivers a striking glossy appearance while protecting your walls from harsh outdoor conditions.",
+    "features": [
+      "Eco friendly with no smells",
+      "High Shining and ultra smooth finish",
+      "Cleanable",
+      "Superb Durability",
+      "Fast Drying after application"
+    ],
+    "warranty": "10yrs Warranty",
+    "nscertified": true
+  },
+  {
+    "id": "ext-natural-high-glossy",
+    "category": "exterior",
+    "name": "Meitu Eco-Friendly High Glossy Natural Exterior Wall Paints",
+    "file": "Meitu Eco-Friendly High Glossy Natural Exterior Wall Paints.webp",
+    "src": "/Regular/exterior/Meitu Eco-Friendly High Glossy Natural Exterior Wall Paints.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "order": 3,
+    "leadtext": "It offers a natural, high-gloss aesthetic for exterior walls, blending a luminous finish with gentle environmental performance. It’s crafted to deliver a refined while retaining the eco-friendly, low-smell properties. It combines strong durability with a decorative sheen that helps accentuate architectural style",
+    "features": [
+      "Eco friendly with no smells",
+      "Super shining and unrivalled smoothness",
+      "Easy to clean",
+      "Superior durability",
+      "Fast Drying after application"
+    ],
+    "warranty": "7yrs warranty",
+    "nscertified": true
+  },
+  {
+    "id": "ext-constant-color",
+    "category": "exterior",
+    "name": "Meitu Environmentally Constant Color Exterior Paint",
+    "file": "Meitu Environmentally Constant Color Exterior Paint.webp",
+    "src": "/Regular/exterior/Meitu Environmentally Constant Color Exterior Paint.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "order": 7,
+    "leadtext": "This paint is formulated to deliver consistent, long-lasting colour that retains its shade over time even under sunlight and weather exposure. It’s also eco friendly with low odour, durable, and cleanable. Its smooth, stable finish helps maintain a uniform look across large exterior surfaces, reducing frequent repainting and colour fading.",
+    "features": [
+      "Eco friendly with no smells",
+      "Ultra Smooth and Matt Finish",
+      "Durable",
+      "Cleanable",
+      "Fast Drying after application"
+    ],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "ext-eco-dark",
+    "category": "exterior",
+    "name": "Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint",
+    "file": "Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint.webp",
+    "src": "/Regular/exterior/Meitu Eco-Friendly Dark Color Interior and Exterior Wall Paint.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "order": 9,
+    "leadtext": "Meitu Eco-friendly dark colour paint (dark base) is a speciality paint formulated to deliver deep, rich, and saturated dark tones while being gentle on the environment and indoor air quality. The “dark base” means the paint is specifically designed as a foundation for darker shades (like charcoals, deep blues, forest greens, dark browns, and black-based hues), providing excellent coverage and consistent depth of colour with fewer coats.",
+    "features": [
+      "Eco-Friendly & Low Odour",
+      "Low VOC / Safe for Air Quality",
+      "Deep, Uniform Dark Base",
+      "Durable and Washable",
+      "Smooth & Attractive Finish"
+    ],
+    "warranty": "",
+    "nscertified": true
+  },
+  {
+    "id": "ext-natural",
+    "category": "exterior",
+    "name": "Meitu Environmentally Friendly Natural Exterior Wall Paint",
+    "file": "Meitu Environmentally Friendly Natural Exterior Wall Paint.webp",
+    "src": "/Regular/exterior/Meitu Environmentally Friendly Natural Exterior Wall Paint.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "order": 5,
+    "leadtext": "A natural finish, environment friendly exterior paint with an emphasis on environmentally safe ingredients and smooth texture. Unlike the high glossy versions, this one leans toward a natural, softer appearance on outdoor walls while still being durable, easy to clean, and free from strong fumes — suitable for traditional and contemporary designs alike.",
+    "features": [
+      "Eco friendly with no smells",
+      "Ultra Smooth and Matt finish ",
+      "Durable",
+      "Cleanable",
+      "Fast Drying after application"
+    ],
+    "warranty": "5yrs warranty",
+    "nscertified": true
+  },
+  {
+    "id": "ext-ceiling",
+    "category": "exterior",
+    "name": "Meitu Eco-Friendly High Glossy Exterior Wall Paint Ceiling White",
+    "file": "Meitu Eco-Friendly High Glossy Exterior Wall Paint Ceiling White.webp",
+    "src": "/Regular/exterior/Meitu Eco-Friendly High Glossy Exterior Wall Paint Ceiling White.webp",
+    "sizes": ["20L", "10L", "4L", "1L"],
+    "order": 12,
+    "leadtext": "Meitu Eco-Friendly High Glossy Ceiling White Paint is an environmentally conscious exterior ceiling paint designed to give ceilings a bright, shiny, high-gloss finish that enhances the look of your room. This paint is formulated with eco-friendly ingredients and minimal smell, making it safer and more comfortable to use in living spaces like living rooms, bedrooms, and hallways. It provides a reflective white surface that helps bounce light around the room, making spaces feel more open and luminous.",
+    "features": [
+      "High Reflectivity & Brightness",
+      "Sleek, Modern Aesthetic",
+      "Easy to Clean & Maintain",
+      "Excellent Durability",
+      "Enhanced Light Distribution"
+    ],
+    "warranty": "",
+    "nscertified": true
+  }
+]
