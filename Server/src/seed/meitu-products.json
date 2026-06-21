@@ -21,6 +21,11 @@
         "datasetKey": "bhadra2082_tools_accessories",
         "source": "Meitu Color tools & accessories price list (Bhadra 2082) - copy 4",
         "notes": "Some rows have two prices; interpreted as priceExclTax and priceInclTax. Page 2 note says other products are not included all tax."
+      },
+      {
+        "datasetKey": "meitu_accessories_colorants",
+        "source": "MeiTu Accessories price List image (2026-05-28)",
+        "notes": "Colorant rows 1-16 only; prices use Dealer price column. Retail Price and rows after Rose red are excluded."
       }
     ]
   },
@@ -3757,6 +3762,24 @@
             "priceExclTax": 14500,
             "priceInclTax": 17058
           }
+        ]
+      }
+    ]
+  },
+  {
+    "datasetKey": "meitu_accessories_colorants",
+    "code": "COLORANT-CARBON-BLACK-NNZ",
+    "name": "Carbon Black (NNZ)",
+    "category": "COLORANT",
+    "description": "",
+    "uom": { "base": "ML", "allowed": ["ML"] },
+    "variants": [
+      {
+        "sku": "COLORANT-CARBON-BLACK-NNZ-1000ML",
+        "pack": { "size": 1000, "unit": "ML", "label": "1000ML" },
+        "pricingModelKey": "FLAT",
+        "prices": [
+          { "min": null, "max": null, "pricePerPack": 998 }
         ]
       }
     ]
