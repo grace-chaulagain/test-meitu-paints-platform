@@ -202,7 +202,7 @@ export default function Home() {
           <div className="intro-shell" data-reveal>
             <span className="intro-eyebrow">MEITU PAINTS</span>
             <h1>
-              Leading paint company based in
+              Granite paint company based in
               <span className="headline-accent"> Nepal</span>
             </h1>
             <p>
@@ -1979,7 +1979,8 @@ section{ padding:120px 24px; }
   .fp-layer-active, .fp-layer-prev{ animation:none; opacity:1; filter:none; transform:none; }
   .fp-visual.fp-has-mouse{ transform:none; }
 }
-      `}</style></div>
+      `}</style>
+      </div>
 
       {/* ================= STYLES ================= */}
       <style>{`
