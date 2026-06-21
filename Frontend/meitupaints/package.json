@@ -20,6 +20,7 @@
     "react-dom": "^19.2.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.9.5",
+    "react-virtualized": "^9.22.6",
     "react-virtualized-auto-sizer": "^2.0.1",
     "react-window": "^2.2.3"
   },
